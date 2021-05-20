@@ -42,7 +42,9 @@
     "jwtSecretKey": "YzNlYTY4ZmI4ZDQ1N2E4YWVhMzMxNTg3ZDEwMzdiY2JmYzg4YjU5ZmI5MDE5N2Y2YTU5ZGI2ZjMzYTM4OTgwODE4ODZmOTliNTY0YzkxYmQ4N2ZkODMzODE3YmZmZTcwMjhiNGJhNmYxMzc4ODRmNTJiODMwMjc1MDcwOGFhNzY=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1621507411000
   },
   "git-provider": "GitHub",
   "git-company": "arshamsedaghatbin",
